@@ -1,0 +1,15 @@
+C:\GB\Lesson 7\Lesson003_Sum\bin\Debug\net6.0\Lesson003_Sum.exe
+C:\GB\Lesson 7\Lesson003_Sum\bin\Debug\net6.0\Lesson003_Sum.deps.json
+C:\GB\Lesson 7\Lesson003_Sum\bin\Debug\net6.0\Lesson003_Sum.runtimeconfig.json
+C:\GB\Lesson 7\Lesson003_Sum\bin\Debug\net6.0\Lesson003_Sum.dll
+C:\GB\Lesson 7\Lesson003_Sum\bin\Debug\net6.0\Lesson003_Sum.pdb
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.csproj.AssemblyReference.cache
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.AssemblyInfoInputs.cache
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.AssemblyInfo.cs
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.csproj.CoreCompileInputs.cache
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.dll
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\refint\Lesson003_Sum.dll
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.pdb
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\Lesson003_Sum.genruntimeconfig.cache
+C:\GB\Lesson 7\Lesson003_Sum\obj\Debug\net6.0\ref\Lesson003_Sum.dll
